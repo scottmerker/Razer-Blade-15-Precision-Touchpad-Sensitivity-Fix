@@ -14,7 +14,11 @@ Patch will work for almost all 2019+ Razer laptops.  Tweak values to suit your p
 
 ### Registry keys added:
 
-SuperCurtainTop, 800
-SuperCurtainLeft, 800
-SuperCurtainRight, 1000
-SuperCurtainBottom, 800
+- SuperCurtainTop, 800
+- SuperCurtainLeft, 800
+- SuperCurtainRight, 1000
+- SuperCurtainBottom, 800
+
+
+### Reference
+Microsoft Precision Trackpad Tuning Guide (https://docs.microsoft.com/en-us/windows-hardware/design/component-guidelines/touchpad-tuning-guidelines)
